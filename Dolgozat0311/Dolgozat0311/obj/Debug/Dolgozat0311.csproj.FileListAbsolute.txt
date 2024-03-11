@@ -1,0 +1,13 @@
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\bin\Debug\Dolgozat0311.exe.config
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\bin\Debug\Dolgozat0311.exe
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\bin\Debug\Dolgozat0311.pdb
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\bin\Debug\Newtonsoft.Json.dll
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\bin\Debug\Newtonsoft.Json.xml
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\obj\Debug\Dolgozat0311.csproj.AssemblyReference.cache
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\obj\Debug\Dolgozat0311.Form1.resources
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\obj\Debug\Dolgozat0311.Properties.Resources.resources
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\obj\Debug\Dolgozat0311.csproj.GenerateResource.cache
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\obj\Debug\Dolgozat0311.csproj.CoreCompileInputs.cache
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\obj\Debug\Dolgozat0311.csproj.CopyComplete
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\obj\Debug\Dolgozat0311.exe
+H:\Sulis cuccok\Felnottkezpes\c#\doga0311\KovacsBence\Dolgozat0311\Dolgozat0311\obj\Debug\Dolgozat0311.pdb
